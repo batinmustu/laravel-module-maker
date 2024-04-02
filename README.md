@@ -1,6 +1,6 @@
 # Laravel Module Maker
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/batinmustu/laravel-module-maker.svg?style=flat-square)](https://packagist.org/packages/batinmustu/laravel-module-maker)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/batinmustu/laravel-module-maker)](https://packagist.org/packages/batinmustu/laravel-module-maker)
 [![Total Downloads](https://img.shields.io/packagist/dt/batinmustu/laravel-module-maker)](https://packagist.org/packages/batinmustu/laravel-module-maker)
 
 This project appears to be a Laravel package named laravel-module-maker developed by batinmustu.
